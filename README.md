@@ -6,28 +6,30 @@
 
 # About
 
-? Five tools in one box: 1) remove speckles 2) fill white pores on black ink 3) remove specific
-shapes, user defined! Road map: 4) damaged lineart regeneration 5) topological                 
-decomposition
-? flexible submenus for topological operations: lets you define and match shapes with
+* Five tools in one box: 
+  1. remove speckles 
+  2. fill white pores on black ink 
+  3. remove specific shapes, user defined! 
+  4. Road map: 4) damaged lineart regeneration 5) topological decomposition
+* Flexible submenus for topological operations: lets you define and match shapes with
 arbitrary precision, fill ratios, distances between elements and sub-modes of operation
-? cheat codes for serial operations and scripting
-? when properly set for your scanner removes >99.99% of dust particles in just one pass
+* Cheat codes for serial operations and scripting
+* When properly set for your scanner removes >99.99% of dust particles in just one pass
 leaving the original lineart and textures intact
-? removes 100% of dark shadows on white background in one pass
-? if your blacks and not black but rather a sponge of gray ink and white pores, the whitepores
+* Removes 100% of dark shadows on white background in one pass
+* If your blacks and not black but rather a sponge of gray ink and white pores, the whitepores
 mode of operation can restore pitch-black art with >99% precision
-? specific mode for texture and screentones removal, needs a high resolution scan: above
+* Specific mode for texture and screentones removal, needs a high resolution scan: above
 300DPI ensures 99.9% removal of screentones while leaving the other features intact
-? while operating, you may also adjust grayscale levels either automatically or by
+* While operating, you may also adjust grayscale levels either automatically or by
 specifications
-? extensive debug and measurement functions: internal operations saved to the shared
+* Extensive debug and measurement functions: internal operations saved to the shared
 memory, you may use debug messages to finely tune your parameters
-? extensive set of tuning variables, sliders and knobs
-? Tested on 7000+px high resolution pictures!
-? Optimized fuctions rewritten from scratch! For topological measurements there's a 100x
+* Extensive set of tuning variables, sliders and knobs
+* Tested on 7000+px high resolution pictures!
+* Optimized fuctions rewritten from scratch! For topological measurements there's a 100x
 gain in speed from standard libraries like pymorph
-? Requires GIMP (www.gimp.org) and a linux distro, an installation script to install dependencies is available for debian and ubuntu
+* Requires GIMP (www.gimp.org) and a linux distro, an installation script to install dependencies is available for debian and ubuntu
 
 # Install
 
